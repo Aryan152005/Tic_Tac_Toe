@@ -1,5 +1,4 @@
 console.log("Welcome to TIC TAC TOE GAME")
-let music = new Audio("main_music.mp3")
 let audioturn = new Audio("click.mp3")
 let gameover = new Audio("over.mp3")
 let turn = "X"
