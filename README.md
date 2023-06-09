@@ -14,7 +14,8 @@ Visual feedback: Highlights the winning pattern and displays the winner at the e
 Restart option: Players can reset the game and start a new round.
 
 # Demo
-You can access the live demo of the Tic Tac Toe web application here : aryan152005.github.io/TIC_TAC_TOE
+You can access the live demo of the Tic Tac Toe web application here :
+https://aryan152005.github.io/Tic_Tac_Toe/
 
 Enjoy playing and challenge your friends.
 
